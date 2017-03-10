@@ -28,6 +28,10 @@
       To create a production bundle, use `npm run build`.
     -->
     <script>
+    window.onload = function() {
+  initMap();
+
+};
         function initMap() {
             var uluru = {lat: 23.777176, lng: 90.399452};
             var map = new google.maps.Map(document.getElementById('map'), {
