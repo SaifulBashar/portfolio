@@ -4,7 +4,7 @@ import './App.css';
 function Header(props) {
 
     const contact = {
-        Email: ["robal.bashar59@gmail.com", "robal.bashar59@gmail.com"],
+        Email: ["#", "robal.bashar59@gmail.com"],
         Github: ["https://github.com/saiful619945", "saiful619945"],
         NPM: ["https://www.npmjs.com/~saiful619945", "saiful619945"],
         Twitter: ["https://twitter.com/Saiful__bashar", "@Saiful__bashar"]
